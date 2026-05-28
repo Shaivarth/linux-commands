@@ -2,7 +2,7 @@
 Documenting my Linux and cybersecurity learning here.
 
 ## Topics
-- Linux basics
+- Linux 
 - Networking
 - Shell scripting
 - Git
