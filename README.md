@@ -5,5 +5,5 @@ Documenting my Linux and cybersecurity learning here.
 - Linux 
 - Networking
 - Shell scripting
-- Git
+- Git/Github
 - Cybersecurity
